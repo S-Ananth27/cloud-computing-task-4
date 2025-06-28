@@ -19,3 +19,5 @@ The objective of this task is to implement comprehensive cloud security best pra
 output
 ![Image](https://github.com/user-attachments/assets/a6e95109-bb27-4b71-9a95-397a6d23f423)
 
+![Image](https://github.com/user-attachments/assets/48370e2d-b95b-45b5-9b2c-6bd45844a508)
+
